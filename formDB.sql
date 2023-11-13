@@ -1,3 +1,5 @@
+create database formDB;
+
 use formDB;
 
 create table calendar(
